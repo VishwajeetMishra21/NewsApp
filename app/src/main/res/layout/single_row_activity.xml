@@ -6,7 +6,7 @@
     android:layout_height="220dp"
     android:layout_margin="6dp"
     android:background="#000000"
-    app:cardCornerRadius="4dp">
+    app:cardCornerRadius="6dp">
 
     <RelativeLayout
         android:id="@+id/llContent"
